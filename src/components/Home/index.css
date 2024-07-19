@@ -1,0 +1,55 @@
+.home-main-container {
+  height: 100vh;
+  background-color: #fef5ec;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.hero-section-main-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  max-width: 1300px;
+}
+.badge-para {
+  display: flex;
+  color: #6a3a0c;
+}
+.hero-section-heading {
+  font-size: 36px;
+  font-weight: 800;
+  max-width: 490px;
+}
+.hero-section-button {
+  border: none;
+}
+.button-container {
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+}
+.heading-section-hero-first {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+  width: 50%;
+}
+.button-content {
+  height: 58px;
+  width: 192px;
+}
+.promo-styles {
+  height: 450px;
+  width: 534px;
+}
+.heading-section-promo-second {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
