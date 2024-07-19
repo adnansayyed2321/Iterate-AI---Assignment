@@ -1,0 +1,50 @@
+.myPujaBookings {
+  padding-top: 94px;
+  width: 100%;
+}
+.myPujaBookingsMainContainer {
+  max-width: 1300px;
+  margin: auto;
+}
+.logo-arrow {
+  height: 20px;
+  width: 20px;
+}
+.puja-history {
+  font-size: 18px;
+  font-weight: 600;
+}
+.puja-history-container {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.empty-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  height: 80vh;
+}
+.empty-files-heading {
+  font-size: 24px;
+  font-weight: 700;
+}
+.para-empty-content {
+  font-size: 20px;
+  max-width: 450px;
+  text-align: center;
+  color: #707070;
+  line-height: 27px;
+}
+.booking-button {
+  padding: 12px 22px;
+  font-size: 16px;
+  background-color: #f18912;
+  color: #fff;
+  border: none;
+  border-radius: 24px;
+  font-weight: 600;
+}
