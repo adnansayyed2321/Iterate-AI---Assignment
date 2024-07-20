@@ -90,6 +90,7 @@
   flex-direction: column;
   row-gap: 5px;
   font-size: 14px;
+  font-weight: 500;
 }
 .list-styles {
   list-style-type: none;
@@ -162,5 +163,5 @@
   width: 16px;
 }
 .highligt {
-  font-weight: normal;
+  font-weight: 500;
 }

@@ -1,0 +1,42 @@
+.puja-main-container {
+  width: 100%;
+  padding-top: 80px;
+  background-image: linear-gradient(#f5dac1, #fff);
+}
+.puja-content-container {
+  width: 100%;
+  max-width: 1300px;
+  margin: auto;
+  padding: 40px 20px;
+}
+.main-heading {
+  font-size: 36px;
+  color: #242424;
+}
+.promo-material-styling {
+  width: 100%;
+  margin: 20px 0px;
+}
+.filter-icon-box {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: #1a56db;
+  font-size: 15px;
+}
+.filter-icon-main-container {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+}
+.filter-icon {
+  height: 24px;
+  width: 24px;
+}
+.arrow-icon {
+  height: 16px;
+  width: 16px;
+}
+.puja-filter-cards-container {
+  padding: 50px 0px;
+}
